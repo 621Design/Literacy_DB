@@ -1,11 +1,38 @@
 [
     {
         "id": 1,
-        "word":"人",
-        "wordPinYin":"rén",
-        "phrase":"人们",
-        "phrasePinYin":"rén men",
-        "sentence":"rén men zài gōng yuán lǐ wán yóu xì.",
-        "sentencePinYin":"人们在公园里玩游戏。"
+        "word": "大",
+        "wordPinYin": "dà",
+        "phrase": "大树",
+        "phrasePinYin": "dà shù",
+        "sentence": "大树下有一只小狗。",
+        "sentencePinYin": "dà shù xià yǒu yī zhī xiǎo gǒu."
+    },
+    {
+        "id": 2,
+        "word": "小",
+        "wordPinYin": "xiǎo",
+        "phrase": "小鸟",
+        "phrasePinYin": "xiǎo niǎo",
+        "sentence": "小鸟在天空中飞翔。",
+        "sentencePinYin": "xiǎo niǎo zài tiān kōng zhōng fēi xiáng."
+    },
+    {
+        "id": 3,
+        "word": "多",
+        "wordPinYin": "duō",
+        "phrase": "很多",
+        "phrasePinYin": "hěn duō",
+        "sentence": "公园里有很多小朋友。",
+        "sentencePinYin": "gōng yuán lǐ yǒu hěn duō xiǎo péng yǒu."
+    },
+    {
+        "id": 4,
+        "word": "少",
+        "wordPinYin": "shǎo",
+        "phrase": "很少",
+        "phrasePinYin": "hěn shǎo",
+        "sentence": "今天下雨，公园里的人很少。",
+        "sentencePinYin": "jīn tiān xià yǔ，gōng yuán lǐ de rén hěn shǎo."
     }
 ]
