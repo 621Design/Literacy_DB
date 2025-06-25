@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "基础字",
+        "description": "学前必备的基础汉字",
+        "iconName": "book.fill",
+        "characterCount": 100,
+        "colorHex": "#FF7E67",
+        "resource": "base"
+    }
+]
