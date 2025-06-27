@@ -7,5 +7,14 @@
         "characterCount": 100,
         "colorHex": "#FF7E67",
         "resource": "base"
+    },
+    {
+        "id": 2,
+        "name": "一年级上",
+        "description": "一年级上学期学习的汉字",
+        "iconName": "1.square.fill",
+        "characterCount": 299,
+        "colorHex": "#4ECDC4",
+        "resource": "grade_1_1"
     }
 ]

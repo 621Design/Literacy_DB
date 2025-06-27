@@ -1,0 +1,2693 @@
+[
+    {
+        "id": 101,
+        "word": "天",
+        "wordPinYin": "tiān",
+        "phrase": "天空",
+        "phrasePinYin": "tiān kōng",
+        "sentence": "今天的天空很蓝。",
+        "sentencePinYin": "jīn tiān de tiān kōng hěn lán。"
+    },
+    {
+        "id": 102,
+        "word": "地",
+        "wordPinYin": "dì",
+        "phrase": "地面",
+        "phrasePinYin": "dì miàn",
+        "sentence": "地面上有很多落叶。",
+        "sentencePinYin": "dì miàn shàng yǒu hěn duō luò yè。"
+    },
+    {
+        "id": 103,
+        "word": "人",
+        "wordPinYin": "rén",
+        "phrase": "人们",
+        "phrasePinYin": "rén men",
+        "sentence": "公园里有很多人在散步。",
+        "sentencePinYin": "gōng yuán lǐ yǒu hěn duō rén zài sàn bù。"
+    },
+    {
+        "id": 104,
+        "word": "你",
+        "wordPinYin": "nǐ",
+        "phrase": "你好",
+        "phrasePinYin": "nǐ hǎo",
+        "sentence": "你好，很高兴认识你。",
+        "sentencePinYin": "nǐ hǎo，hěn gāo xìng rèn shí nǐ。"
+    },
+    {
+        "id": 105,
+        "word": "我",
+        "wordPinYin": "wǒ",
+        "phrase": "我们",
+        "phrasePinYin": "wǒ men",
+        "sentence": "我们是好朋友。",
+        "sentencePinYin": "wǒ men shì hǎo péng you。"
+    },
+    {
+        "id": 106,
+        "word": "他",
+        "wordPinYin": "tā",
+        "phrase": "他们",
+        "phrasePinYin": "tā men",
+        "sentence": "他们正在踢足球。",
+        "sentencePinYin": "tā men zhèng zài tī zú qiú。"
+    },
+    {
+        "id": 107,
+        "word": "一",
+        "wordPinYin": "yī",
+        "phrase": "一个",
+        "phrasePinYin": "yī gè",
+        "sentence": "我有一个苹果。",
+        "sentencePinYin": "wǒ yǒu yī gè píng guǒ。"
+    },
+    {
+        "id": 108,
+        "word": "二",
+        "wordPinYin": "èr",
+        "phrase": "二月",
+        "phrasePinYin": "èr yuè",
+        "sentence": "二月是冬天。",
+        "sentencePinYin": "èr yuè shì dōng tiān。"
+    },
+    {
+        "id": 109,
+        "word": "三",
+        "wordPinYin": "sān",
+        "phrase": "三月",
+        "phrasePinYin": "sān yuè",
+        "sentence": "三月春天来了。",
+        "sentencePinYin": "sān yuè chūn tiān lái le。"
+    },
+    {
+        "id": 110,
+        "word": "四",
+        "wordPinYin": "sì",
+        "phrase": "四月",
+        "phrasePinYin": "sì yuè",
+        "sentence": "四月天气变暖了。",
+        "sentencePinYin": "sì yuè tiān qì biàn nuǎn le。"
+    },
+    {
+        "id": 111,
+        "word": "五",
+        "wordPinYin": "wǔ",
+        "phrase": "五月",
+        "phrasePinYin": "wǔ yuè",
+        "sentence": "五月有很多花开放。",
+        "sentencePinYin": "wǔ yuè yǒu hěn duō huā kāi fàng。"
+    },
+    {
+        "id": 112,
+        "word": "上",
+        "wordPinYin": "shàng",
+        "phrase": "上面",
+        "phrasePinYin": "shàng miàn",
+        "sentence": "书在桌子上面。",
+        "sentencePinYin": "shū zài zhuō zi shàng miàn。"
+    },
+    {
+        "id": 113,
+        "word": "下",
+        "wordPinYin": "xià",
+        "phrase": "下面",
+        "phrasePinYin": "xià miàn",
+        "sentence": "小猫在桌子下面。",
+        "sentencePinYin": "xiǎo māo zài zhuō zi xià miàn。"
+    },
+    {
+        "id": 114,
+        "word": "口",
+        "wordPinYin": "kǒu",
+        "phrase": "口水",
+        "phrasePinYin": "kǒu shuǐ",
+        "sentence": "看到好吃的会流口水。",
+        "sentencePinYin": "kàn dào hǎo chī de huì liú kǒu shuǐ。"
+    },
+    {
+        "id": 115,
+        "word": "耳",
+        "wordPinYin": "ěr",
+        "phrase": "耳朵",
+        "phrasePinYin": "ěr duo",
+        "sentence": "我的耳朵能听到声音。",
+        "sentencePinYin": "wǒ de ěr duo néng tīng dào shēng yīn。"
+    },
+    {
+        "id": 116,
+        "word": "目",
+        "wordPinYin": "mù",
+        "phrase": "目光",
+        "phrasePinYin": "mù guāng",
+        "sentence": "老师的目光很温柔。",
+        "sentencePinYin": "lǎo shī de mù guāng hěn wēn róu。"
+    },
+    {
+        "id": 117,
+        "word": "手",
+        "wordPinYin": "shǒu",
+        "phrase": "手指",
+        "phrasePinYin": "shǒu zhǐ",
+        "sentence": "我有十个手指。",
+        "sentencePinYin": "wǒ yǒu shí gè shǒu zhǐ。"
+    },
+    {
+        "id": 118,
+        "word": "足",
+        "wordPinYin": "zú",
+        "phrase": "足球",
+        "phrasePinYin": "zú qiú",
+        "sentence": "我喜欢踢足球。",
+        "sentencePinYin": "wǒ xǐ huān tī zú qiú。"
+    },
+    {
+        "id": 119,
+        "word": "站",
+        "wordPinYin": "zhàn",
+        "phrase": "站立",
+        "phrasePinYin": "zhàn lì",
+        "sentence": "我们站立着唱国歌。",
+        "sentencePinYin": "wǒ men zhàn lì zhe chàng guó gē。"
+    },
+    {
+        "id": 120,
+        "word": "坐",
+        "wordPinYin": "zuò",
+        "phrase": "坐下",
+        "phrasePinYin": "zuò xià",
+        "sentence": "请安静地坐下。",
+        "sentencePinYin": "qǐng ān jìng de zuò xià。"
+    },
+    {
+        "id": 121,
+        "word": "日",
+        "wordPinYin": "rì",
+        "phrase": "日出",
+        "phrasePinYin": "rì chū",
+        "sentence": "早上看日出很美。",
+        "sentencePinYin": "zǎo shàng kàn rì chū hěn měi。"
+    },
+    {
+        "id": 122,
+        "word": "月",
+        "wordPinYin": "yuè",
+        "phrase": "月亮",
+        "phrasePinYin": "yuè liang",
+        "sentence": "今晚的月亮很圆。",
+        "sentencePinYin": "jīn wǎn de yuè liang hěn yuán。"
+    },
+    {
+        "id": 123,
+        "word": "水",
+        "wordPinYin": "shuǐ",
+        "phrase": "水果",
+        "phrasePinYin": "shuǐ guǒ",
+        "sentence": "多吃水果对身体好。",
+        "sentencePinYin": "duō chī shuǐ guǒ duì shēn tǐ hǎo。"
+    },
+    {
+        "id": 124,
+        "word": "火",
+        "wordPinYin": "huǒ",
+        "phrase": "火焰",
+        "phrasePinYin": "huǒ yàn",
+        "sentence": "篝火的火焰在跳动。",
+        "sentencePinYin": "gōu huǒ de huǒ yàn zài tiào dòng。"
+    },
+    {
+        "id": 125,
+        "word": "山",
+        "wordPinYin": "shān",
+        "phrase": "高山",
+        "phrasePinYin": "gāo shān",
+        "sentence": "那座高山很雄伟。",
+        "sentencePinYin": "nà zuò gāo shān hěn xióng wěi。"
+    },
+    {
+        "id": 126,
+        "word": "石",
+        "wordPinYin": "shí",
+        "phrase": "石头",
+        "phrasePinYin": "shí tou",
+        "sentence": "河边有很多漂亮的石头。",
+        "sentencePinYin": "hé biān yǒu hěn duō piào liang de shí tou。"
+    },
+    {
+        "id": 127,
+        "word": "田",
+        "wordPinYin": "tián",
+        "phrase": "田野",
+        "phrasePinYin": "tián yě",
+        "sentence": "田野里种满了庄稼。",
+        "sentencePinYin": "tián yě lǐ zhòng mǎn le zhuāng jia。"
+    },
+    {
+        "id": 128,
+        "word": "禾",
+        "wordPinYin": "hé",
+        "phrase": "禾苗",
+        "phrasePinYin": "hé miáo",
+        "sentence": "田里的禾苗长得很绿。",
+        "sentencePinYin": "tián lǐ de hé miáo zhǎng de hěn lǜ。"
+    },
+    {
+        "id": 129,
+        "word": "对",
+        "wordPinYin": "duì",
+        "phrase": "对了",
+        "phrasePinYin": "duì le",
+        "sentence": "这道题的答案对了。",
+        "sentencePinYin": "zhè dào tí de dá àn duì le。"
+    },
+    {
+        "id": 130,
+        "word": "云",
+        "wordPinYin": "yún",
+        "phrase": "白云",
+        "phrasePinYin": "bái yún",
+        "sentence": "天空飘着朵朵白云。",
+        "sentencePinYin": "tiān kōng piāo zhe duǒ duǒ bái yún。"
+    },
+    {
+        "id": 131,
+        "word": "雨",
+        "wordPinYin": "yǔ",
+        "phrase": "下雨",
+        "phrasePinYin": "xià yǔ",
+        "sentence": "今天下午可能会下雨。",
+        "sentencePinYin": "jīn tiān xià wǔ kě néng huì xià yǔ。"
+    },
+    {
+        "id": 132,
+        "word": "风",
+        "wordPinYin": "fēng",
+        "phrase": "风筝",
+        "phrasePinYin": "fēng zheng",
+        "sentence": "我们在公园放风筝。",
+        "sentencePinYin": "wǒ men zài gōng yuán fàng fēng zheng。"
+    },
+    {
+        "id": 133,
+        "word": "花",
+        "wordPinYin": "huā",
+        "phrase": "花朵",
+        "phrasePinYin": "huā duǒ",
+        "sentence": "花园里开满了美丽的花朵。",
+        "sentencePinYin": "huā yuán lǐ kāi mǎn le měi lì de huā duǒ。"
+    },
+    {
+        "id": 134,
+        "word": "鸟",
+        "wordPinYin": "niǎo",
+        "phrase": "小鸟",
+        "phrasePinYin": "xiǎo niǎo",
+        "sentence": "树上有只小鸟在唱歌。",
+        "sentencePinYin": "shù shàng yǒu zhī xiǎo niǎo zài chàng gē。"
+    },
+    {
+        "id": 135,
+        "word": "虫",
+        "wordPinYin": "chóng",
+        "phrase": "虫子",
+        "phrasePinYin": "chóng zi",
+        "sentence": "草地上有很多小虫子。",
+        "sentencePinYin": "cǎo dì shàng yǒu hěn duō xiǎo chóng zi。"
+    },
+    {
+        "id": 136,
+        "word": "六",
+        "wordPinYin": "liù",
+        "phrase": "六月",
+        "phrasePinYin": "liù yuè",
+        "sentence": "六月是夏天的开始。",
+        "sentencePinYin": "liù yuè shì xià tiān de kāi shǐ。"
+    },
+    {
+        "id": 137,
+        "word": "七",
+        "wordPinYin": "qī",
+        "phrase": "七月",
+        "phrasePinYin": "qī yuè",
+        "sentence": "七月是最热的月份。",
+        "sentencePinYin": "qī yuè shì zuì rè de yuè fèn。"
+    },
+    {
+        "id": 138,
+        "word": "八",
+        "wordPinYin": "bā",
+        "phrase": "八月",
+        "phrasePinYin": "bā yuè",
+        "sentence": "八月有很多水果成熟。",
+        "sentencePinYin": "bā yuè yǒu hěn duō shuǐ guǒ chéng shú。"
+    },
+    {
+        "id": 139,
+        "word": "九",
+        "wordPinYin": "jiǔ",
+        "phrase": "九月",
+        "phrasePinYin": "jiǔ yuè",
+        "sentence": "九月是新学期开始。",
+        "sentencePinYin": "jiǔ yuè shì xīn xué qī kāi shǐ。"
+    },
+    {
+        "id": 140,
+        "word": "十",
+        "wordPinYin": "shí",
+        "phrase": "十月",
+        "phrasePinYin": "shí yuè",
+        "sentence": "十月是金色的秋天。",
+        "sentencePinYin": "shí yuè shì jīn sè de qiū tiān。"
+    },
+    {
+        "id": 141,
+        "word": "爸",
+        "wordPinYin": "bà",
+        "phrase": "爸爸",
+        "phrasePinYin": "bà ba",
+        "sentence": "爸爸带我去公园玩。",
+        "sentencePinYin": "bà ba dài wǒ qù gōng yuán wán。"
+    },
+    {
+        "id": 142,
+        "word": "妈",
+        "wordPinYin": "mā",
+        "phrase": "妈妈",
+        "phrasePinYin": "mā ma",
+        "sentence": "妈妈做的饭很好吃。",
+        "sentencePinYin": "mā ma zuò de fàn hěn hǎo chī。"
+    },
+    {
+        "id": 143,
+        "word": "棋",
+        "wordPinYin": "qí",
+        "phrase": "下棋",
+        "phrasePinYin": "xià qí",
+        "sentence": "爷爷喜欢和我下棋。",
+        "sentencePinYin": "yé ye xǐ huān hé wǒ xià qí。"
+    },
+    {
+        "id": 144,
+        "word": "鸡",
+        "wordPinYin": "jī",
+        "phrase": "小鸡",
+        "phrasePinYin": "xiǎo jī",
+        "sentence": "农场里有很多小鸡。",
+        "sentencePinYin": "nóng chǎng lǐ yǒu hěn duō xiǎo jī。"
+    },
+    {
+        "id": 145,
+        "word": "马",
+        "wordPinYin": "mǎ",
+        "phrase": "小马",
+        "phrasePinYin": "xiǎo mǎ",
+        "sentence": "草原上奔跑着小马。",
+        "sentencePinYin": "cǎo yuán shàng bēn pǎo zhe xiǎo mǎ。"
+    },
+    {
+        "id": 146,
+        "word": "土",
+        "wordPinYin": "tǔ",
+        "phrase": "土地",
+        "phrasePinYin": "tǔ dì",
+        "sentence": "农民伯伯在土地上耕种。",
+        "sentencePinYin": "nóng mín bó bo zài tǔ dì shàng gēng zhòng。"
+    },
+    {
+        "id": 147,
+        "word": "不",
+        "wordPinYin": "bù",
+        "phrase": "不要",
+        "phrasePinYin": "bù yào",
+        "sentence": "不要在马路上玩耍。",
+        "sentencePinYin": "bù yào zài mǎ lù shàng wán shuǎ。"
+    },
+    {
+        "id": 148,
+        "word": "字",
+        "wordPinYin": "zì",
+        "phrase": "写字",
+        "phrasePinYin": "xiě zì",
+        "sentence": "我正在练习写字。",
+        "sentencePinYin": "wǒ zhèng zài liàn xí xiě zì。"
+    },
+    {
+        "id": 149,
+        "word": "词",
+        "wordPinYin": "cí",
+        "phrase": "词语",
+        "phrasePinYin": "cí yǔ",
+        "sentence": "老师教我们新词语。",
+        "sentencePinYin": "lǎo shī jiāo wǒ men xīn cí yǔ。"
+    },
+    {
+        "id": 150,
+        "word": "语",
+        "wordPinYin": "yǔ",
+        "phrase": "语言",
+        "phrasePinYin": "yǔ yán",
+        "sentence": "我们要学好语言。",
+        "sentencePinYin": "wǒ men yào xué hǎo yǔ yán。"
+    },
+    {
+        "id": 151,
+        "word": "句",
+        "wordPinYin": "jù",
+        "phrase": "句子",
+        "phrasePinYin": "jù zi",
+        "sentence": "这个句子写得很通顺。",
+        "sentencePinYin": "zhè gè jù zi xiě de hěn tōng shùn。"
+    },
+    {
+        "id": 152,
+        "word": "子",
+        "wordPinYin": "zi",
+        "phrase": "孩子",
+        "phrasePinYin": "hái zi",
+        "sentence": "孩子们在操场上玩耍。",
+        "sentencePinYin": "hái zi men zài cāo chǎng shàng wán shuǎ。"
+    },
+    {
+        "id": 153,
+        "word": "画",
+        "wordPinYin": "huà",
+        "phrase": "画画",
+        "phrasePinYin": "huà huà",
+        "sentence": "我喜欢用彩笔画画。",
+        "sentencePinYin": "wǒ xǐ huān yòng cǎi bǐ huà huà。"
+    },
+    {
+        "id": 154,
+        "word": "打",
+        "wordPinYin": "dǎ",
+        "phrase": "打球",
+        "phrasePinYin": "dǎ qiú",
+        "sentence": "放学后我们去打球。",
+        "sentencePinYin": "fàng xué hòu wǒ men qù dǎ qiú。"
+    },
+    {
+        "id": 155,
+        "word": "桌",
+        "wordPinYin": "zhuō",
+        "phrase": "桌子",
+        "phrasePinYin": "zhuō zi",
+        "sentence": "我的书包放在桌子上。",
+        "sentencePinYin": "wǒ de shū bāo fàng zài zhuō zi shàng。"
+    },
+    {
+        "id": 156,
+        "word": "纸",
+        "wordPinYin": "zhǐ",
+        "phrase": "纸张",
+        "phrasePinYin": "zhǐ zhāng",
+        "sentence": "请节约使用纸张。",
+        "sentencePinYin": "qǐng jié yuē shǐ yòng zhǐ zhāng。"
+    },
+    {
+        "id": 157,
+        "word": "妹",
+        "wordPinYin": "mèi",
+        "phrase": "妹妹",
+        "phrasePinYin": "mèi mei",
+        "sentence": "我的妹妹很可爱。",
+        "sentencePinYin": "wǒ de mèi mei hěn kě ài。"
+    },
+    {
+        "id": 158,
+        "word": "奶",
+        "wordPinYin": "nǎi",
+        "phrase": "牛奶",
+        "phrasePinYin": "niú nǎi",
+        "sentence": "每天早上喝一杯牛奶。",
+        "sentencePinYin": "měi tiān zǎo shàng hē yī bēi niú nǎi。"
+    },
+    {
+        "id": 159,
+        "word": "白",
+        "wordPinYin": "bái",
+        "phrase": "白色",
+        "phrasePinYin": "bái sè",
+        "sentence": "我有一件白色的衣服。",
+        "sentencePinYin": "wǒ yǒu yī jiàn bái sè de yī fu。"
+    },
+    {
+        "id": 160,
+        "word": "草",
+        "wordPinYin": "cǎo",
+        "phrase": "草地",
+        "phrasePinYin": "cǎo dì",
+        "sentence": "我们在草地上野餐。",
+        "sentencePinYin": "wǒ men zài cǎo dì shàng yě cān。"
+    },
+    {
+        "id": 161,
+        "word": "家",
+        "wordPinYin": "jiā",
+        "phrase": "家庭",
+        "phrasePinYin": "jiā tíng",
+        "sentence": "我有一个幸福的家庭。",
+        "sentencePinYin": "wǒ yǒu yī gè xìng fú de jiā tíng。"
+    },
+    {
+        "id": 162,
+        "word": "是",
+        "wordPinYin": "shì",
+        "phrase": "是否",
+        "phrasePinYin": "shì fǒu",
+        "sentence": "你是否完成了作业？",
+        "sentencePinYin": "nǐ shì fǒu wán chéng le zuò yè？"
+    },
+    {
+        "id": 163,
+        "word": "小",
+        "wordPinYin": "xiǎo",
+        "phrase": "小孩",
+        "phrasePinYin": "xiǎo hái",
+        "sentence": "小孩们在玩游戏。",
+        "sentencePinYin": "xiǎo hái men zài wán yóu xì。"
+    },
+    {
+        "id": 164,
+        "word": "桥",
+        "wordPinYin": "qiáo",
+        "phrase": "桥梁",
+        "phrasePinYin": "qiáo liáng",
+        "sentence": "这座桥梁很坚固。",
+        "sentencePinYin": "zhè zuò qiáo liáng hěn jiān gù。"
+    },
+    {
+        "id": 165,
+        "word": "台",
+        "wordPinYin": "tái",
+        "phrase": "台阶",
+        "phrasePinYin": "tái jiē",
+        "sentence": "小心台阶，别摔倒。",
+        "sentencePinYin": "xiǎo xīn tái jiē，bié shuāi dǎo。"
+    },
+    {
+        "id": 166,
+        "word": "车",
+        "wordPinYin": "chē",
+        "phrase": "汽车",
+        "phrasePinYin": "qì chē",
+        "sentence": "爸爸开车去上班。",
+        "sentencePinYin": "bà ba kāi chē qù shàng bān。"
+    },
+    {
+        "id": 167,
+        "word": "路",
+        "wordPinYin": "lù",
+        "phrase": "马路",
+        "phrasePinYin": "mǎ lù",
+        "sentence": "过马路要走人行横道。",
+        "sentencePinYin": "guò mǎ lù yào zǒu rén xíng héng dào。"
+    },
+    {
+        "id": 168,
+        "word": "灯",
+        "wordPinYin": "dēng",
+        "phrase": "灯光",
+        "phrasePinYin": "dēng guāng",
+        "sentence": "夜晚的灯光很美丽。",
+        "sentencePinYin": "yè wǎn de dēng guāng hěn měi lì。"
+    },
+    {
+        "id": 169,
+        "word": "走",
+        "wordPinYin": "zǒu",
+        "phrase": "走路",
+        "phrasePinYin": "zǒu lù",
+        "sentence": "我们要学会自己走路。",
+        "sentencePinYin": "wǒ men yào xué huì zì jǐ zǒu lù。"
+    },
+    {
+        "id": 170,
+        "word": "雪",
+        "wordPinYin": "xuě",
+        "phrase": "雪花",
+        "phrasePinYin": "xuě huā",
+        "sentence": "冬天的雪花真漂亮。",
+        "sentencePinYin": "dōng tiān de xuě huā zhēn piào liang。"
+    },
+    {
+        "id": 171,
+        "word": "儿",
+        "wordPinYin": "ér",
+        "phrase": "儿子",
+        "phrasePinYin": "ér zi",
+        "sentence": "他是我的儿子。",
+        "sentencePinYin": "tā shì wǒ de ér zi。"
+    },
+    {
+        "id": 172,
+        "word": "秋",
+        "wordPinYin": "qiū",
+        "phrase": "秋天",
+        "phrasePinYin": "qiū tiān",
+        "sentence": "秋天是收获的季节。",
+        "sentencePinYin": "qiū tiān shì shōu huò de jì jié。"
+    },
+    {
+        "id": 173,
+        "word": "气",
+        "wordPinYin": "qì",
+        "phrase": "气球",
+        "phrasePinYin": "qì qiú",
+        "sentence": "生日派对上有很多气球。",
+        "sentencePinYin": "shēng rì pài duì shàng yǒu hěn duō qì qiú。"
+    },
+    {
+        "id": 174,
+        "word": "了",
+        "wordPinYin": "le",
+        "phrase": "好了",
+        "phrasePinYin": "hǎo le",
+        "sentence": "作业写好了。",
+        "sentencePinYin": "zuò yè xiě hǎo le。"
+    },
+    {
+        "id": 175,
+        "word": "树",
+        "wordPinYin": "shù",
+        "phrase": "树木",
+        "phrasePinYin": "shù mù",
+        "sentence": "公园里有很多高大的树木。",
+        "sentencePinYin": "gōng yuán lǐ yǒu hěn duō gāo dà de shù mù。"
+    },
+    {
+        "id": 176,
+        "word": "叶",
+        "wordPinYin": "yè",
+        "phrase": "叶子",
+        "phrasePinYin": "yè zi",
+        "sentence": "秋天树叶变黄了。",
+        "sentencePinYin": "qiū tiān shù yè biàn huáng le。"
+    },
+    {
+        "id": 177,
+        "word": "片",
+        "wordPinYin": "piàn",
+        "phrase": "一片",
+        "phrasePinYin": "yī piàn",
+        "sentence": "我吃一片面包。",
+        "sentencePinYin": "wǒ chī yī piàn miàn bāo。"
+    },
+    {
+        "id": 178,
+        "word": "大",
+        "wordPinYin": "dà",
+        "phrase": "大家",
+        "phrasePinYin": "dà jiā",
+        "sentence": "大家一起来玩游戏。",
+        "sentencePinYin": "dà jiā yī qǐ lái wán yóu xì。"
+    },
+    {
+        "id": 179,
+        "word": "飞",
+        "wordPinYin": "fēi",
+        "phrase": "飞机",
+        "phrasePinYin": "fēi jī",
+        "sentence": "飞机在天空中飞翔。",
+        "sentencePinYin": "fēi jī zài tiān kōng zhōng fēi xiáng。"
+    },
+    {
+        "id": 180,
+        "word": "会",
+        "wordPinYin": "huì",
+        "phrase": "会议",
+        "phrasePinYin": "huì yì",
+        "sentence": "下午三点有个会议。",
+        "sentencePinYin": "xià wǔ sān diǎn yǒu gè huì yì。"
+    },
+    {
+        "id": 181,
+        "word": "个",
+        "wordPinYin": "gè",
+        "phrase": "个人",
+        "phrasePinYin": "gè rén",
+        "sentence": "这是个人物品。",
+        "sentencePinYin": "zhè shì gè rén wù pǐn。"
+    },
+    {
+        "id": 182,
+        "word": "的",
+        "wordPinYin": "de",
+        "phrase": "好的",
+        "phrasePinYin": "hǎo de",
+        "sentence": "这样做是好的。",
+        "sentencePinYin": "zhè yàng zuò shì hǎo de。"
+    },
+    {
+        "id": 183,
+        "word": "船",
+        "wordPinYin": "chuán",
+        "phrase": "小船",
+        "phrasePinYin": "xiǎo chuán",
+        "sentence": "湖面上漂着小船。",
+        "sentencePinYin": "hú miàn shàng piāo zhe xiǎo chuán。"
+    },
+    {
+        "id": 184,
+        "word": "两",
+        "wordPinYin": "liǎng",
+        "phrase": "两个",
+        "phrasePinYin": "liǎng gè",
+        "sentence": "我有两个苹果。",
+        "sentencePinYin": "wǒ yǒu liǎng gè píng guǒ。"
+    },
+    {
+        "id": 185,
+        "word": "头",
+        "wordPinYin": "tóu",
+        "phrase": "头发",
+        "phrasePinYin": "tóu fa",
+        "sentence": "我的头发需要剪了。",
+        "sentencePinYin": "wǒ de tóu fa xū yào jiǎn le。"
+    },
+    {
+        "id": 186,
+        "word": "在",
+        "wordPinYin": "zài",
+        "phrase": "在家",
+        "phrasePinYin": "zài jiā",
+        "sentence": "周末我喜欢在家看书。",
+        "sentencePinYin": "zhōu mò wǒ xǐ huān zài jiā kàn shū。"
+    },
+    {
+        "id": 187,
+        "word": "里",
+        "wordPinYin": "lǐ",
+        "phrase": "里面",
+        "phrasePinYin": "lǐ miàn",
+        "sentence": "书包里面有很多书。",
+        "sentencePinYin": "shū bāo lǐ miàn yǒu hěn duō shū。"
+    },
+    {
+        "id": 188,
+        "word": "看",
+        "wordPinYin": "kàn",
+        "phrase": "看见",
+        "phrasePinYin": "kàn jiàn",
+        "sentence": "我看见一只小鸟。",
+        "sentencePinYin": "wǒ kàn jiàn yī zhī xiǎo niǎo。"
+    },
+    {
+        "id": 189,
+        "word": "见",
+        "wordPinYin": "jiàn",
+        "phrase": "见面",
+        "phrasePinYin": "jiàn miàn",
+        "sentence": "我们明天见面吧。",
+        "sentencePinYin": "wǒ men míng tiān jiàn miàn ba。"
+    },
+    {
+        "id": 190,
+        "word": "闪",
+        "wordPinYin": "shǎn",
+        "phrase": "闪电",
+        "phrasePinYin": "shǎn diàn",
+        "sentence": "雷雨天的闪电很吓人。",
+        "sentencePinYin": "léi yǔ tiān de shǎn diàn hěn xià rén。"
+    },
+    {
+        "id": 191,
+        "word": "星",
+        "wordPinYin": "xīng",
+        "phrase": "星星",
+        "phrasePinYin": "xīng xing",
+        "sentence": "夜晚的天空有很多星星。",
+        "sentencePinYin": "yè wǎn de tiān kōng yǒu hěn duō xīng xing。"
+    },
+    {
+        "id": 192,
+        "word": "江",
+        "wordPinYin": "jiāng",
+        "phrase": "江河",
+        "phrasePinYin": "jiāng hé",
+        "sentence": "长江是中国最长的江河。",
+        "sentencePinYin": "cháng jiāng shì zhōng guó zuì cháng de jiāng hé。"
+    },
+    {
+        "id": 193,
+        "word": "南",
+        "wordPinYin": "nán",
+        "phrase": "南方",
+        "phrasePinYin": "nán fāng",
+        "sentence": "冬天南方比较暖和。",
+        "sentencePinYin": "dōng tiān nán fāng bǐ jiào nuǎn huo。"
+    },
+    {
+        "id": 194,
+        "word": "可",
+        "wordPinYin": "kě",
+        "phrase": "可以",
+        "phrasePinYin": "kě yǐ",
+        "sentence": "我可以借你的铅笔吗？",
+        "sentencePinYin": "wǒ kě yǐ jiè nǐ de qiān bǐ ma？"
+    },
+    {
+        "id": 195,
+        "word": "采",
+        "wordPinYin": "cǎi",
+        "phrase": "采摘",
+        "phrasePinYin": "cǎi zhāi",
+        "sentence": "我们去果园采摘水果。",
+        "sentencePinYin": "wǒ men qù guǒ yuán cǎi zhāi shuǐ guǒ。"
+    },
+    {
+        "id": 196,
+        "word": "莲",
+        "wordPinYin": "lián",
+        "phrase": "莲花",
+        "phrasePinYin": "lián huā",
+        "sentence": "池塘里的莲花开了。",
+        "sentencePinYin": "chí táng lǐ de lián huā kāi le。"
+    },
+    {
+        "id": 197,
+        "word": "鱼",
+        "wordPinYin": "yú",
+        "phrase": "鱼儿",
+        "phrasePinYin": "yú er",
+        "sentence": "小河里有好多鱼儿。",
+        "sentencePinYin": "xiǎo hé lǐ yǒu hǎo duō yú er。"
+    },
+    {
+        "id": 198,
+        "word": "东",
+        "wordPinYin": "dōng",
+        "phrase": "东方",
+        "phrasePinYin": "dōng fāng",
+        "sentence": "太阳从东方升起。",
+        "sentencePinYin": "tài yáng cóng dōng fāng shēng qǐ。"
+    },
+    {
+        "id": 199,
+        "word": "西",
+        "wordPinYin": "xī",
+        "phrase": "西瓜",
+        "phrasePinYin": "xī guā",
+        "sentence": "夏天吃西瓜很解渴。",
+        "sentencePinYin": "xià tiān chī xī guā hěn jiě kě。"
+    },
+    {
+        "id": 200,
+        "word": "北",
+        "wordPinYin": "běi",
+        "phrase": "北方",
+        "phrasePinYin": "běi fāng",
+        "sentence": "北方的冬天很冷。",
+        "sentencePinYin": "běi fāng de dōng tiān hěn lěng。"
+    },
+    {
+        "id": 201,
+        "word": "尖",
+        "wordPinYin": "jiān",
+        "phrase": "尖叫",
+        "phrasePinYin": "jiān jiào",
+        "sentence": "不要大声尖叫。",
+        "sentencePinYin": "bù yào dà shēng jiān jiào。"
+    },
+    {
+        "id": 202,
+        "word": "说",
+        "wordPinYin": "shuō",
+        "phrase": "说话",
+        "phrasePinYin": "shuō huà",
+        "sentence": "上课时不要随便说话。",
+        "sentencePinYin": "shàng kè shí bù yào suí biàn shuō huà。"
+    },
+    {
+        "id": 203,
+        "word": "春",
+        "wordPinYin": "chūn",
+        "phrase": "春天",
+        "phrasePinYin": "chūn tiān",
+        "sentence": "春天是万物复苏的季节。",
+        "sentencePinYin": "chūn tiān shì wàn wù fù sū de jì jié。"
+    },
+    {
+        "id": 204,
+        "word": "青",
+        "wordPinYin": "qīng",
+        "phrase": "青春",
+        "phrasePinYin": "qīng chūn",
+        "sentence": "我们要珍惜青春时光。",
+        "sentencePinYin": "wǒ men yào zhēn xī qīng chūn shí guāng。"
+    },
+    {
+        "id": 205,
+        "word": "蛙",
+        "wordPinYin": "wā",
+        "phrase": "青蛙",
+        "phrasePinYin": "qīng wā",
+        "sentence": "池塘里有好多青蛙。",
+        "sentencePinYin": "chí táng lǐ yǒu hǎo duō qīng wā。"
+    },
+    {
+        "id": 206,
+        "word": "夏",
+        "wordPinYin": "xià",
+        "phrase": "夏天",
+        "phrasePinYin": "xià tiān",
+        "sentence": "夏天可以去海边玩。",
+        "sentencePinYin": "xià tiān kě yǐ qù hǎi biān wán。"
+    },
+    {
+        "id": 207,
+        "word": "弯",
+        "wordPinYin": "wān",
+        "phrase": "弯曲",
+        "phrasePinYin": "wān qū",
+        "sentence": "这条小路很弯曲。",
+        "sentencePinYin": "zhè tiáo xiǎo lù hěn wān qū。"
+    },
+    {
+        "id": 208,
+        "word": "皮",
+        "wordPinYin": "pí",
+        "phrase": "皮肤",
+        "phrasePinYin": "pí fū",
+        "sentence": "冬天要注意保护皮肤。",
+        "sentencePinYin": "dōng tiān yào zhù yì bǎo hù pí fū。"
+    },
+    {
+        "id": 209,
+        "word": "地",
+        "wordPinYin": "dì",
+        "phrase": "地球",
+        "phrasePinYin": "dì qiú",
+        "sentence": "我们要爱护地球。",
+        "sentencePinYin": "wǒ men yào ài hù dì qiú。"
+    },
+    {
+        "id": 210,
+        "word": "冬",
+        "wordPinYin": "dōng",
+        "phrase": "冬天",
+        "phrasePinYin": "dōng tiān",
+        "sentence": "冬天可以堆雪人。",
+        "sentencePinYin": "dōng tiān kě yǐ duī xuě rén。"
+    },
+    {
+        "id": 211,
+        "word": "男",
+        "wordPinYin": "nán",
+        "phrase": "男孩",
+        "phrasePinYin": "nán hái",
+        "sentence": "那个男孩在踢足球。",
+        "sentencePinYin": "nà gè nán hái zài tī zú qiú。"
+    },
+    {
+        "id": 212,
+        "word": "女",
+        "wordPinYin": "nǚ",
+        "phrase": "女孩",
+        "phrasePinYin": "nǚ hái",
+        "sentence": "这个女孩很文静。",
+        "sentencePinYin": "zhè gè nǚ hái hěn wén jìng。"
+    },
+    {
+        "id": 213,
+        "word": "开",
+        "wordPinYin": "kāi",
+        "phrase": "开心",
+        "phrasePinYin": "kāi xīn",
+        "sentence": "今天玩得很开心。",
+        "sentencePinYin": "jīn tiān wán de hěn kāi xīn。"
+    },
+    {
+        "id": 214,
+        "word": "关",
+        "wordPinYin": "guān",
+        "phrase": "关门",
+        "phrasePinYin": "guān mén",
+        "sentence": "离开时请关门。",
+        "sentencePinYin": "lí kāi shí qǐng guān mén。"
+    },
+    {
+        "id": 215,
+        "word": "正",
+        "wordPinYin": "zhèng",
+        "phrase": "正确",
+        "phrasePinYin": "zhèng què",
+        "sentence": "这个答案是正确的。",
+        "sentencePinYin": "zhè gè dá àn shì zhèng què de。"
+    },
+    {
+        "id": 216,
+        "word": "反",
+        "wordPinYin": "fǎn",
+        "phrase": "反面",
+        "phrasePinYin": "fǎn miàn",
+        "sentence": "请翻到书的反面。",
+        "sentencePinYin": "qǐng fān dào shū de fǎn miàn。"
+    },
+    {
+        "id": 217,
+        "word": "远",
+        "wordPinYin": "yuǎn",
+        "phrase": "远方",
+        "phrasePinYin": "yuǎn fāng",
+        "sentence": "我向往远方的风景。",
+        "sentencePinYin": "wǒ xiàng wǎng yuǎn fāng de fēng jǐng。"
+    },
+    {
+        "id": 218,
+        "word": "有",
+        "wordPinYin": "yǒu",
+        "phrase": "有趣",
+        "phrasePinYin": "yǒu qù",
+        "sentence": "这个故事很有趣。",
+        "sentencePinYin": "zhè gè gù shì hěn yǒu qù。"
+    },
+    {
+        "id": 219,
+        "word": "色",
+        "wordPinYin": "sè",
+        "phrase": "色彩",
+        "phrasePinYin": "sè cǎi",
+        "sentence": "这幅画的色彩很丰富。",
+        "sentencePinYin": "zhè fú huà de sè cǎi hěn fēng fù。"
+    },
+    {
+        "id": 220,
+        "word": "近",
+        "wordPinYin": "jìn",
+        "phrase": "最近",
+        "phrasePinYin": "zuì jìn",
+        "sentence": "最近天气变冷了。",
+        "sentencePinYin": "zuì jìn tiān qì biàn lěng le。"
+    },
+    {
+        "id": 221,
+        "word": "听",
+        "wordPinYin": "tīng",
+        "phrase": "听见",
+        "phrasePinYin": "tīng jiàn",
+        "sentence": "我听见小鸟在唱歌。",
+        "sentencePinYin": "wǒ tīng jiàn xiǎo niǎo zài chàng gē。"
+    },
+    {
+        "id": 222,
+        "word": "无",
+        "wordPinYin": "wú",
+        "phrase": "无法",
+        "phrasePinYin": "wú fǎ",
+        "sentence": "这个问题我无法回答。",
+        "sentencePinYin": "zhè gè wèn tí wǒ wú fǎ huí dá。"
+    },
+    {
+        "id": 223,
+        "word": "声",
+        "wordPinYin": "shēng",
+        "phrase": "声音",
+        "phrasePinYin": "shēng yīn",
+        "sentence": "教室里要保持安静，不要发出声音。",
+        "sentencePinYin": "jiào shì lǐ yào bǎo chí ān jìng，bù yào fā chū shēng yīn。"
+    },
+    {
+        "id": 224,
+        "word": "去",
+        "wordPinYin": "qù",
+        "phrase": "去年",
+        "phrasePinYin": "qù nián",
+        "sentence": "去年我们去了海南旅游。",
+        "sentencePinYin": "qù nián wǒ men qù le hǎi nán lǚ yóu。"
+    },
+    {
+        "id": 225,
+        "word": "还",
+        "wordPinYin": "hái",
+        "phrase": "还有",
+        "phrasePinYin": "hái yǒu",
+        "sentence": "书包里还有一本书。",
+        "sentencePinYin": "shū bāo lǐ hái yǒu yī běn shū。"
+    },
+    {
+        "id": 226,
+        "word": "来",
+        "wordPinYin": "lái",
+        "phrase": "来自",
+        "phrasePinYin": "lái zì",
+        "sentence": "这些水果来自南方。",
+        "sentencePinYin": "zhè xiē shuǐ guǒ lái zì nán fāng。"
+    },
+    {
+        "id": 227,
+        "word": "多",
+        "wordPinYin": "duō",
+        "phrase": "多少",
+        "phrasePinYin": "duō shǎo",
+        "sentence": "你知道这道题的答案是多少吗？",
+        "sentencePinYin": "nǐ zhī dào zhè dào tí de dá àn shì duō shǎo ma？"
+    },
+    {
+        "id": 228,
+        "word": "少",
+        "wordPinYin": "shǎo",
+        "phrase": "少年",
+        "phrasePinYin": "shào nián",
+        "sentence": "少年强则国强。",
+        "sentencePinYin": "shào nián qiáng zé guó qiáng。"
+    },
+    {
+        "id": 229,
+        "word": "黄",
+        "wordPinYin": "huáng",
+        "phrase": "黄色",
+        "phrasePinYin": "huáng sè",
+        "sentence": "这件衣服是黄色的。",
+        "sentencePinYin": "zhè jiàn yī fu shì huáng sè de。"
+    },
+    {
+        "id": 230,
+        "word": "牛",
+        "wordPinYin": "niú",
+        "phrase": "牛奶",
+        "phrasePinYin": "niú nǎi",
+        "sentence": "每天早上喝一杯牛奶。",
+        "sentencePinYin": "měi tiān zǎo shàng hē yī bēi niú nǎi。"
+    },
+    {
+        "id": 231,
+        "word": "只",
+        "wordPinYin": "zhī",
+        "phrase": "只有",
+        "phrasePinYin": "zhǐ yǒu",
+        "sentence": "教室里只有我一个人。",
+        "sentencePinYin": "jiào shì lǐ zhǐ yǒu wǒ yī gè rén。"
+    },
+    {
+        "id": 232,
+        "word": "猫",
+        "wordPinYin": "māo",
+        "phrase": "小猫",
+        "phrasePinYin": "xiǎo māo",
+        "sentence": "我家养了一只小猫。",
+        "sentencePinYin": "wǒ jiā yǎng le yī zhī xiǎo māo。"
+    },
+    {
+        "id": 233,
+        "word": "边",
+        "wordPinYin": "biān",
+        "phrase": "旁边",
+        "phrasePinYin": "páng biān",
+        "sentence": "请坐在我旁边。",
+        "sentencePinYin": "qǐng zuò zài wǒ páng biān。"
+    },
+    {
+        "id": 234,
+        "word": "鸭",
+        "wordPinYin": "yā",
+        "phrase": "鸭子",
+        "phrasePinYin": "yā zi",
+        "sentence": "池塘里游着几只鸭子。",
+        "sentencePinYin": "chí táng lǐ yóu zhe jǐ zhī yā zi。"
+    },
+    {
+        "id": 235,
+        "word": "苹",
+        "wordPinYin": "píng",
+        "phrase": "苹果",
+        "phrasePinYin": "píng guǒ",
+        "sentence": "我喜欢吃红苹果。",
+        "sentencePinYin": "wǒ xǐ huān chī hóng píng guǒ。"
+    },
+    {
+        "id": 236,
+        "word": "果",
+        "wordPinYin": "guǒ",
+        "phrase": "水果",
+        "phrasePinYin": "shuǐ guǒ",
+        "sentence": "多吃水果对身体好。",
+        "sentencePinYin": "duō chī shuǐ guǒ duì shēn tǐ hǎo。"
+    },
+    {
+        "id": 237,
+        "word": "杏",
+        "wordPinYin": "xìng",
+        "phrase": "杏仁",
+        "phrasePinYin": "xìng rén",
+        "sentence": "这种饼干里有杏仁。",
+        "sentencePinYin": "zhè zhǒng bǐng gān lǐ yǒu xìng rén。"
+    },
+    {
+        "id": 238,
+        "word": "桃",
+        "wordPinYin": "táo",
+        "phrase": "桃子",
+        "phrasePinYin": "táo zi",
+        "sentence": "夏天是桃子成熟的季节。",
+        "sentencePinYin": "xià tiān shì táo zi chéng shú de jì jié。"
+    },
+    {
+        "id": 239,
+        "word": "书",
+        "wordPinYin": "shū",
+        "phrase": "书包",
+        "phrasePinYin": "shū bāo",
+        "sentence": "我的书包是蓝色的。",
+        "sentencePinYin": "wǒ de shū bāo shì lán sè de。"
+    },
+    {
+        "id": 240,
+        "word": "包",
+        "wordPinYin": "bāo",
+        "phrase": "面包",
+        "phrasePinYin": "miàn bāo",
+        "sentence": "早餐我吃了一个面包。",
+        "sentencePinYin": "zǎo cān wǒ chī le yī gè miàn bāo。"
+    },
+    {
+        "id": 241,
+        "word": "尺",
+        "wordPinYin": "chǐ",
+        "phrase": "尺子",
+        "phrasePinYin": "chǐ zi",
+        "sentence": "请借我一把尺子。",
+        "sentencePinYin": "qǐng jiè wǒ yī bǎ chǐ zi。"
+    },
+    {
+        "id": 242,
+        "word": "作",
+        "wordPinYin": "zuò",
+        "phrase": "作业",
+        "phrasePinYin": "zuò yè",
+        "sentence": "放学后我要写作业。",
+        "sentencePinYin": "fàng xué hòu wǒ yào xiě zuò yè。"
+    },
+    {
+        "id": 243,
+        "word": "业",
+        "wordPinYin": "yè",
+        "phrase": "工业",
+        "phrasePinYin": "gōng yè",
+        "sentence": "这座城市工业很发达。",
+        "sentencePinYin": "zhè zuò chéng shì gōng yè hěn fā dá。"
+    },
+    {
+        "id": 244,
+        "word": "本",
+        "wordPinYin": "běn",
+        "phrase": "本子",
+        "phrasePinYin": "běn zi",
+        "sentence": "请拿出你的练习本。",
+        "sentencePinYin": "qǐng ná chū nǐ de liàn xí běn。"
+    },
+    {
+        "id": 245,
+        "word": "笔",
+        "wordPinYin": "bǐ",
+        "phrase": "铅笔",
+        "phrasePinYin": "qiān bǐ",
+        "sentence": "我用铅笔写字。",
+        "sentencePinYin": "wǒ yòng qiān bǐ xiě zì。"
+    },
+    {
+        "id": 246,
+        "word": "刀",
+        "wordPinYin": "dāo",
+        "phrase": "小刀",
+        "phrasePinYin": "xiǎo dāo",
+        "sentence": "请小心使用小刀。",
+        "sentencePinYin": "qǐng xiǎo xīn shǐ yòng xiǎo dāo。"
+    },
+    {
+        "id": 247,
+        "word": "课",
+        "wordPinYin": "kè",
+        "phrase": "课文",
+        "phrasePinYin": "kè wén",
+        "sentence": "请朗读这篇课文。",
+        "sentencePinYin": "qǐng lǎng dú zhè piān kè wén。"
+    },
+    {
+        "id": 248,
+        "word": "早",
+        "wordPinYin": "zǎo",
+        "phrase": "早上",
+        "phrasePinYin": "zǎo shang",
+        "sentence": "早上空气很新鲜。",
+        "sentencePinYin": "zǎo shang kōng qì hěn xīn xiān。"
+    },
+    {
+        "id": 249,
+        "word": "校",
+        "wordPinYin": "xiào",
+        "phrase": "学校",
+        "phrasePinYin": "xué xiào",
+        "sentence": "我们学校很漂亮。",
+        "sentencePinYin": "wǒ men xué xiào hěn piào liang。"
+    },
+    {
+        "id": 250,
+        "word": "明",
+        "wordPinYin": "míng",
+        "phrase": "明天",
+        "phrasePinYin": "míng tiān",
+        "sentence": "明天是周末。",
+        "sentencePinYin": "míng tiān shì zhōu mò。"
+    },
+    {
+        "id": 251,
+        "word": "力",
+        "wordPinYin": "lì",
+        "phrase": "力气",
+        "phrasePinYin": "lì qi",
+        "sentence": "他很有力气。",
+        "sentencePinYin": "tā hěn yǒu lì qi。"
+    },
+    {
+        "id": 252,
+        "word": "尘",
+        "wordPinYin": "chén",
+        "phrase": "灰尘",
+        "phrasePinYin": "huī chén",
+        "sentence": "桌子上有很多灰尘。",
+        "sentencePinYin": "zhuō zi shàng yǒu hěn duō huī chén。"
+    },
+    {
+        "id": 253,
+        "word": "从",
+        "wordPinYin": "cóng",
+        "phrase": "从前",
+        "phrasePinYin": "cóng qián",
+        "sentence": "从前有座山。",
+        "sentencePinYin": "cóng qián yǒu zuò shān。"
+    },
+    {
+        "id": 254,
+        "word": "众",
+        "wordPinYin": "zhòng",
+        "phrase": "群众",
+        "phrasePinYin": "qún zhòng",
+        "sentence": "要听取群众意见。",
+        "sentencePinYin": "yào tīng qǔ qún zhòng yì jiàn。"
+    },
+    {
+        "id": 255,
+        "word": "双",
+        "wordPinYin": "shuāng",
+        "phrase": "双手",
+        "phrasePinYin": "shuāng shǒu",
+        "sentence": "请用双手接东西。",
+        "sentencePinYin": "qǐng yòng shuāng shǒu jiē dōng xi。"
+    },
+    {
+        "id": 256,
+        "word": "木",
+        "wordPinYin": "mù",
+        "phrase": "木头",
+        "phrasePinYin": "mù tou",
+        "sentence": "这张桌子是木头做的。",
+        "sentencePinYin": "zhè zhāng zhuō zi shì mù tou zuò de。"
+    },
+    {
+        "id": 257,
+        "word": "林",
+        "wordPinYin": "lín",
+        "phrase": "森林",
+        "phrasePinYin": "sēn lín",
+        "sentence": "我们要保护森林。",
+        "sentencePinYin": "wǒ men yào bǎo hù sēn lín。"
+    },
+    {
+        "id": 258,
+        "word": "森",
+        "wordPinYin": "sēn",
+        "phrase": "森林",
+        "phrasePinYin": "sēn lín",
+        "sentence": "大森林里有很多动物。",
+        "sentencePinYin": "dà sēn lín lǐ yǒu hěn duō dòng wù。"
+    },
+    {
+        "id": 259,
+        "word": "条",
+        "wordPinYin": "tiáo",
+        "phrase": "一条",
+        "phrasePinYin": "yī tiáo",
+        "sentence": "河里有一条鱼。",
+        "sentencePinYin": "hé lǐ yǒu yī tiáo yú。"
+    },
+    {
+        "id": 260,
+        "word": "心",
+        "wordPinYin": "xīn",
+        "phrase": "心情",
+        "phrasePinYin": "xīn qíng",
+        "sentence": "今天我的心情很好。",
+        "sentencePinYin": "jīn tiān wǒ de xīn qíng hěn hǎo。"
+    },
+    {
+        "id": 261,
+        "word": "升",
+        "wordPinYin": "shēng",
+        "phrase": "升旗",
+        "phrasePinYin": "shēng qí",
+        "sentence": "周一早上我们要升旗。",
+        "sentencePinYin": "zhōu yī zǎo shàng wǒ men yào shēng qí。"
+    },
+    {
+        "id": 262,
+        "word": "国",
+        "wordPinYin": "guó",
+        "phrase": "国家",
+        "phrasePinYin": "guó jiā",
+        "sentence": "我们要热爱自己的国家。",
+        "sentencePinYin": "wǒ men yào rè ài zì jǐ de guó jiā。"
+    },
+    {
+        "id": 263,
+        "word": "旗",
+        "wordPinYin": "qí",
+        "phrase": "国旗",
+        "phrasePinYin": "guó qí",
+        "sentence": "五星红旗是我们的国旗。",
+        "sentencePinYin": "wǔ xīng hóng qí shì wǒ men de guó qí。"
+    },
+    {
+        "id": 264,
+        "word": "中",
+        "wordPinYin": "zhōng",
+        "phrase": "中国",
+        "phrasePinYin": "zhōng guó",
+        "sentence": "我是中国人。",
+        "sentencePinYin": "wǒ shì zhōng guó rén。"
+    },
+    {
+        "id": 265,
+        "word": "红",
+        "wordPinYin": "hóng",
+        "phrase": "红色",
+        "phrasePinYin": "hóng sè",
+        "sentence": "我最喜欢红色。",
+        "sentencePinYin": "wǒ zuì xǐ huān hóng sè。"
+    },
+    {
+        "id": 266,
+        "word": "歌",
+        "wordPinYin": "gē",
+        "phrase": "唱歌",
+        "phrasePinYin": "chàng gē",
+        "sentence": "我喜欢唱歌。",
+        "sentencePinYin": "wǒ xǐ huān chàng gē。"
+    },
+    {
+        "id": 267,
+        "word": "起",
+        "wordPinYin": "qǐ",
+        "phrase": "起床",
+        "phrasePinYin": "qǐ chuáng",
+        "sentence": "我每天早上六点起床。",
+        "sentencePinYin": "wǒ měi tiān zǎo shàng liù diǎn qǐ chuáng。"
+    },
+    {
+        "id": 268,
+        "word": "么",
+        "wordPinYin": "me",
+        "phrase": "什么",
+        "phrasePinYin": "shén me",
+        "sentence": "你在做什么？",
+        "sentencePinYin": "nǐ zài zuò shén me？"
+    },
+    {
+        "id": 269,
+        "word": "美",
+        "wordPinYin": "měi",
+        "phrase": "美丽",
+        "phrasePinYin": "měi lì",
+        "sentence": "这里的风景很美丽。",
+        "sentencePinYin": "zhè lǐ de fēng jǐng hěn měi lì。"
+    },
+    {
+        "id": 270,
+        "word": "丽",
+        "wordPinYin": "lì",
+        "phrase": "秀丽",
+        "phrasePinYin": "xiù lì",
+        "sentence": "桂林山水很秀丽。",
+        "sentencePinYin": "guì lín shān shuǐ hěn xiù lì。"
+    },
+    {
+        "id": 271,
+        "word": "立",
+        "wordPinYin": "lì",
+        "phrase": "站立",
+        "phrasePinYin": "zhàn lì",
+        "sentence": "我们站立着唱国歌。",
+        "sentencePinYin": "wǒ men zhàn lì zhe chàng guó gē。"
+    },
+    {
+        "id": 272,
+        "word": "午",
+        "wordPinYin": "wǔ",
+        "phrase": "中午",
+        "phrasePinYin": "zhōng wǔ",
+        "sentence": "中午我要睡午觉。",
+        "sentencePinYin": "zhōng wǔ wǒ yào shuì wǔ jiào。"
+    },
+    {
+        "id": 273,
+        "word": "晚",
+        "wordPinYin": "wǎn",
+        "phrase": "晚上",
+        "phrasePinYin": "wǎn shang",
+        "sentence": "晚上我们要早点睡觉。",
+        "sentencePinYin": "wǎn shang wǒ men yào zǎo diǎn shuì jiào。"
+    },
+    {
+        "id": 274,
+        "word": "昨",
+        "wordPinYin": "zuó",
+        "phrase": "昨天",
+        "phrasePinYin": "zuó tiān",
+        "sentence": "昨天我去了动物园。",
+        "sentencePinYin": "zuó tiān wǒ qù le dòng wù yuán。"
+    },
+    {
+        "id": 275,
+        "word": "今",
+        "wordPinYin": "jīn",
+        "phrase": "今天",
+        "phrasePinYin": "jīn tiān",
+        "sentence": "今天是星期一。",
+        "sentencePinYin": "jīn tiān shì xīng qī yī。"
+    },
+    {
+        "id": 276,
+        "word": "年",
+        "wordPinYin": "nián",
+        "phrase": "新年",
+        "phrasePinYin": "xīn nián",
+        "sentence": "新年快乐！",
+        "sentencePinYin": "xīn nián kuài lè！"
+    },
+    {
+        "id": 277,
+        "word": "影",
+        "wordPinYin": "yǐng",
+        "phrase": "影子",
+        "phrasePinYin": "yǐng zi",
+        "sentence": "阳光下有我的影子。",
+        "sentencePinYin": "yáng guāng xià yǒu wǒ de yǐng zi。"
+    },
+    {
+        "id": 278,
+        "word": "前",
+        "wordPinYin": "qián",
+        "phrase": "前面",
+        "phrasePinY极Yin": "qián miàn",
+        "sentence": "请往前面走。",
+        "sentencePinYin": "qǐng wǎng qián miàn zǒu。"
+    },
+    {
+        "id": 279,
+        "word": "后",
+        "wordPinYin": "hòu",
+        "phrase": "后面",
+        "phrasePinYin": "hòu miàn",
+        "sentence": "教室后面有书架。",
+        "sentencePinYin": "jiào shì hòu miàn yǒu shū jià。"
+    },
+    {
+        "id": 280,
+        "word": "黑",
+        "wordPinYin": "hēi",
+        "phrase": "黑色",
+        "phrasePinYin": "hēi sè",
+        "sentence": "我的书包是黑色的。",
+        "sentencePinYin": "wǒ de shū bāo shì hēi sè de。"
+    },
+    {
+        "id": 281,
+        "word": "狗",
+        "wordPinYin": "gǒu",
+        "phrase": "小狗",
+        "phrasePinYin": "xiǎo gǒu",
+        "极sentence": "我家养了一只小狗。",
+        "sentencePinYin": "wǒ jiā yǎng le yī zhī xiǎo gǒu。"
+    },
+    {
+        "id": 282,
+        "word": "左",
+        "wordPinYin": "zuǒ",
+        "phrase": "左边",
+        "phrasePinYin": "zuǒ biān",
+        "sentence": "请往左边走。",
+        "sentencePinYin": "qǐng wǎng zuǒ biān zǒu。"
+    },
+    {
+        "id": 283,
+        "word": "右",
+        "wordPinYin": "yòu",
+        "phrase": "右边",
+        "phrasePinYin": "yòu biān",
+        "sentence": "书在桌子的右边。",
+        "sentencePinYin": "shū zài zhuō zi de yòu biān。"
+    },
+    {
+        "id": 284,
+        "word": "它",
+        "wordPinYin": "tā",
+        "phrase": "它们",
+        "phrasePinYin": "tā men",
+        "sentence": "它们正在吃东西。",
+        "sentencePinYin": "tā men zhèng zài chī dōng xi。"
+    },
+    {
+        "id": 285,
+        "word": "好",
+        "wordPinYin": "hǎo",
+        "phrase": "好人",
+        "phrasePinYin": "hǎo rén",
+        "sentence": "我们要做个好人。",
+        "sentencePinYin": "wǒ men yào zuò gè hǎo rén。"
+    },
+    {
+        "id": 286,
+        "word": "朋",
+        "wordPinYin": "péng",
+        "phrase": "朋友",
+        "phrasePinYin": "péng you",
+        "sentence": "他是我的好朋友。",
+        "sentencePinYin": "tā shì wǒ de hǎo péng you。"
+    },
+    {
+        "id": 287,
+        "word": "友",
+        "wordPinYin": "yǒu",
+        "phrase": "朋友",
+        "phrasePinYin": "péng you",
+        "sentence": "他是我的好朋友。",
+        "sentencePinYin": "tā shì wǒ de hǎo péng you。"
+    },
+    {
+        "id": 288,
+        "word": "比",
+        "wordPinYin": "bǐ",
+        "phrase": "比赛",
+        "phrasePinYin": "bǐ sài",
+        "sentence": "我们班赢了足球比赛。",
+        "sentencePinYin": "wǒ men bān yíng le zú qiú bǐ sài。"
+    },
+    {
+        "id": 289,
+        "word": "尾",
+        "wordPinYin": "wěi",
+        "phrase": "尾巴",
+        "phrasePinYin": "wěi ba",
+        "sentence": "小狗的尾巴摇来摇去。",
+        "sentencePinYin": "xiǎo gǒu de wěi ba yáo lái yáo qù。"
+    },
+    {
+        "id": 290,
+        "word": "巴",
+        "wordPinYin": "bā",
+        "phrase": "巴士",
+        "phrasePinYin": "bā shì",
+        "sentence": "我坐巴士去上学。",
+        "sentencePinYin": "wǒ zuò bā shì qù shàng xué。"
+    },
+    {
+        "id": 291,
+        "word": "谁",
+        "wordPinYin": "shéi",
+        "phrase": "谁的",
+        "phrasePinYin": "shéi de",
+        "sentence": "这是谁的铅笔？",
+        "sentencePinYin": "zhè shì shéi de qiān bǐ？"
+    },
+    {
+        "id": 292,
+        "word": "长",
+        "wordPinYin": "cháng",
+        "phrase": "长江",
+        "phrasePinYin": "cháng jiāng",
+        "sentence": "长江是中国最长的河流。",
+        "sentencePinYin": "cháng jiāng shì zhōng guó zuì cháng de hé liú。"
+    },
+    {
+        "id": 293,
+        "word": "短",
+        "wordPinYin": "duǎn",
+        "phrase": "短裤",
+        "phrasePinYin": "duǎn kù",
+        "sentence": "夏天我喜欢穿短裤。",
+        "sentencePinYin": "xià tiān wǒ xǐ huān chuān duǎn kù。"
+    },
+    {
+        "id": 294,
+        "word": "把",
+        "wordPinYin": "bǎ",
+        "phrase": "把手",
+        "phrasePinYin": "bǎ shou",
+        "sentence": "请抓住扶手把手下车。",
+        "sentencePinYin": "qǐng zhuā zhù fú shou bǎ shou xià chē。"
+    },
+    {
+        "id": 295,
+        "word": "伞",
+        "wordPinYin": "sǎn",
+        "phrase": "雨伞",
+        "phrasePinYin": "yǔ sǎn",
+        "sentence": "下雨天记得带雨伞。",
+        "sentencePinYin": "xià yǔ tiān jì de dài yǔ sǎn。"
+    },
+    {
+        "id": 296,
+        "word": "兔",
+        "wordPinYin": "tù",
+        "phrase": "兔子",
+        "phrasePinYin": "tù zi",
+        "sentence": "小白兔很可爱。",
+        "sentencePinYin": "xiǎo bái tù hěn kě ài。"
+    },
+    {
+        "id": 297,
+        "word": "最",
+        "wordPinYin": "zuì",
+        "phrase": "最好",
+        "phrasePinYin": "zuì hǎo",
+        "sentence": "这本书最好看。",
+        "sentencePinYin": "zhè běn shū zuì hǎo kàn。"
+    },
+    {
+        "id": 298,
+        "word": "公",
+        "wordPinYin": "gōng",
+        "phrase": "公园",
+        "phrasePinYin": "gōng yuán",
+        "sentence": "周末我们去公园玩。",
+        "sentencePinYin": "zhōu mò wǒ men qù gōng yuán wán。"
+    },
+    {
+        "id": 299,
+        "word": "写",
+        "wordPinYin": "xiě",
+        "phrase": "写字",
+        "phrasePinYin": "xiě zì",
+        "sentence": "我正在练习写字。",
+        "sentencePinYin": "wǒ zhèng zài liàn xí xiě zì。"
+    },
+    {
+        "id": 300,
+        "word": "诗",
+        "wordPinYin": "shī",
+        "phrase": "诗歌",
+        "phrasePinYin": "shī gē",
+        "sentence": "我们学习了一首古诗。",
+        "sentencePinYin": "wǒ men xué xí le yī shǒu gǔ shī。"
+    },
+    {
+        "id": 301,
+        "word": "点",
+        "wordPinYin": "diǎn",
+        "phrase": "雨点",
+        "phrasePinYin": "yǔ diǎn",
+        "sentence": "雨点打在窗户上。",
+        "sentencePinYin": "yǔ diǎn dǎ zài chuāng hu shàng。"
+    },
+    {
+        "id": 302,
+        "word": "要",
+        "wordPinYin": "yào",
+        "phrase": "要求",
+        "phrasePinYin": "yāo qiú",
+        "sentence": "老师对我们有要求。",
+        "sentencePinYin": "lǎo shī duì wǒ men yǒu yāo qiú。"
+    },
+    {
+        "id": 303,
+        "word": "过",
+        "wordPinYin": "guò",
+        "phrase": "过去",
+        "phrasePinYin": "guò qù",
+        "sentence": "过去的经历很宝贵。",
+        "sentencePinYin": "guò qù de jīng lì hěn bǎo guì。"
+    },
+    {
+        "id": 304,
+        "word": "给",
+        "wordPinYin": "gěi",
+        "phrase": "送给",
+        "phrasePinYin": "sòng gěi",
+        "sentence": "我把礼物送给妈妈。",
+        "sentencePinYin": "wǒ bǎ lǐ wù sòng gěi mā ma。"
+    },
+    {
+        "id": 305,
+        "word": "当",
+        "wordPinYin": "dāng",
+        "phrase": "当然",
+        "phrasePinYin": "dāng rán",
+        "sentence": "当然可以借给你。",
+        "sentencePinYin": "dāng rán kě yǐ jiè gěi nǐ。"
+    },
+    {
+        "id": 306,
+        "word": "串",
+        "wordPinYin": "chuàn",
+        "phrase": "一串",
+        "phrasePinYin": "yī chuàn",
+        "sentence": "我买了一串葡萄。",
+        "sentencePinYin": "wǒ mǎi le yī chuàn pú tao。"
+    },
+    {
+        "id": 307,
+        "word": "们",
+        "wordPinYin": "men",
+        "phrase": "我们",
+        "phrasePinYin": "wǒ men",
+        "sentence": "我们是好朋友。",
+        "sentencePinYin": "wǒ men shì hǎo péng you。"
+    },
+    {
+        "id": 308,
+        "word": "以",
+        "wordPinYin": "yǐ",
+        "phrase": "以后",
+        "phrasePinYin": "yǐ hòu",
+        "sentence": "以后要更加努力。",
+        "sentencePinYin": "yǐ hòu yào gèng jiā nǔ lì。"
+    },
+    {
+        "id": 309,
+        "word": "成",
+        "wordPinYin": "chéng",
+        "phrase": "成功",
+        "phrasePinYin": "chéng gōng",
+        "sentence": "祝你考试成功。",
+        "sentencePinYin": "zhù nǐ kǎo shì chéng gōng。"
+    },
+    {
+        "id": 310,
+        "word": "数",
+        "wordPinYin": "shù",
+        "phrase": "数学",
+        "phrasePinYin": "shù xué",
+        "sentence": "我最喜欢数学课。",
+        "sentencePinYin": "wǒ zuì xǐ huān shù xué kè。"
+    },
+    {
+        "id": 311,
+        "word": "彩",
+        "wordPinYin": "cǎi",
+        "phrase": "彩色",
+        "phrasePinYin": "cǎi sè",
+        "sentence": "我喜欢彩色的气球。",
+        "sentencePinYin": "wǒ xǐ huān cǎi sè de qì qiú。"
+    },
+    {
+        "id": 312,
+        "word": "半",
+        "wordPinYin": "bàn",
+        "phrase": "半天",
+        "phrasePinYin": "bàn tiān",
+        "sentence": "我等了老半天。",
+        "sentencePinYin": "wǒ děng le lǎo bàn tiān。"
+    },
+    {
+        "id": 313,
+        "word": "空",
+        "wordPinYin": "kōng",
+        "phrase": "天空",
+        "phrasePinYin": "tiān kōng",
+        "sentence": "今天的天空很蓝。",
+        "sentencePinYin": "jīn tiān de tiān kōng hěn lán。"
+    },
+    {
+        "id": 314,
+        "word": "问",
+        "wordPinYin": "wèn",
+        "phrase": "问题",
+        "phrasePinYin": "wèn tí",
+        "sentence": "我有一个问题要问。",
+        "sentencePinYin": "wǒ yǒu yī gè wèn tí yào wèn。"
+    },
+    {
+        "id": 315,
+        "word": "到",
+        "wordPinYin": "dào",
+        "phrase": "到达",
+        "phrasePinYin": "dào dá",
+        "sentence": "我们准时到达学校。",
+        "sentencePinYin": "wǒ men zhǔn shí dào dá xué xiào。"
+    },
+    {
+        "id": 316,
+        "word": "方",
+        "wordPinYin": "fāng",
+        "phrase": "方向",
+        "phrasePinYin": "fāng xiàng",
+        "sentence": "我们要认清方向。",
+        "sentencePinYin": "wǒ men yào rèn qīng fāng xiàng。"
+    },
+    {
+        "id": 317,
+        "word": "没",
+        "wordPinYin": "méi",
+        "phrase": "没有",
+        "phrasePinYin": "méi yǒu",
+        "sentence": "我没有带铅笔。",
+        "sentencePinYin": "wǒ méi yǒu dài qiān bǐ。"
+    },
+    {
+        "id": 318,
+        "word": "更",
+        "wordPinYin": "gèng",
+        "phrase": "更加",
+        "phrasePinYin": "gèng jiā",
+        "sentence": "我要更加努力学习。",
+        "sentencePinYin": "wǒ yào gèng jiā nǔ lì xué xí。"
+    },
+    {
+        "id": 319,
+        "word": "绿",
+        "wordPinYin": "lǜ",
+        "phrase": "绿色",
+        "phrasePinYin": "lǜ sè",
+        "sentence": "春天树叶变绿了。",
+        "sentencePinYin": "chūn tiān shù yè biàn lǜ le。"
+    },
+    {
+        "id": 320,
+        "word": "出",
+        "wordPinYin": "chū",
+        "phrase": "出门",
+        "phrasePinYin": "chū mén",
+        "sentence": "我早上七点出门。",
+        "sentencePinYin": "wǒ zǎo shàng qī diǎn chū mén。"
+    },
+    {
+        "id": 321,
+        "word": "长",
+        "wordPinYin": "zhǎng",
+        "phrase": "长大",
+        "phrasePinYin": "zhǎng dà",
+        "sentence": "我要快快长大。",
+        "sentencePinYin": "wǒ yào kuài kuài zhǎng dà。"
+    },
+    {
+        "id": 322,
+        "word": "睡",
+        "wordPinYin": "shuì",
+        "phrase": "睡觉",
+        "phrasePinYin": "shuì jiào",
+        "sentence": "晚上要早点睡觉。",
+        "sentencePinYin": "wǎn shàng yào zǎo diǎn shuì jiào。"
+    },
+    {
+        "id": 323,
+        "word": "那",
+        "wordPinYin": "nà",
+        "phrase": "那边",
+        "phrasePinYin": "nà biān",
+        "sentence": "请往那边走。",
+        "sentencePinYin": "qǐng wǎng nà biān zǒu。"
+    },
+    {
+        "id": 324,
+        "word": "海",
+        "wordPinYin": "hǎi",
+        "phrase": "海洋",
+        "phrasePinYin": "hǎi yáng",
+        "sentence": "海洋里有很多生物。",
+        "sentencePinYin": "hǎi yáng lǐ yǒu hěn duō shēng wù。"
+    },
+    {
+        "id": 325,
+        "word": "真",
+        "wordPinYin": "zhēn",
+        "phrase": "真的",
+        "phrasePinYin": "zhēn de",
+        "sentence": "这个故事是真的吗？",
+        "sentencePinYin": "zhè gè gù shì shì zhēn de ma？"
+    },
+    {
+        "id": 326,
+        "word": "老",
+        "wordPinYin": "lǎo",
+        "phrase": "老师",
+        "phrasePinYin": "lǎo shī",
+        "sentence": "老师教我们知识。",
+        "sentencePinYin": "lǎo shī jiāo wǒ men zhī shi。"
+    },
+    {
+        "id": 327,
+        "word": "师",
+        "wordPinYin": "shī",
+        "phrase": "师傅",
+        "phrasePinYin": "shī fu",
+        "sentence": "师傅教我学手艺。",
+        "sentencePinYin": "shī fu jiāo wǒ xué shǒu yì。"
+    },
+    {
+        "id": 328,
+        "word": "吗",
+        "wordPinYin": "ma",
+        "phrase": "好吗",
+        "phrasePinYin": "hǎo ma",
+        "sentence": "我们一起玩好吗？",
+        "sentencePinYin": "wǒ men yī qǐ wán hǎo ma？"
+    },
+    {
+        "id": 329,
+        "word": "同",
+        "wordPinYin": "tóng",
+        "phrase": "同学",
+        "phrasePinYin": "tóng xué",
+        "sentence": "他是我的同班同学。",
+        "sentencePinYin": "tā shì wǒ de tóng bān tóng xué。"
+    },
+    {
+        "id": 330,
+        "word": "什",
+        "wordPinYin": "shén",
+        "phrase": "什么",
+        "phrasePinYin": "shén me",
+        "sentence": "你在做什么？",
+        "sentencePinYin": "nǐ zài zuò shén me？"
+    },
+    {
+        "id": 331,
+        "word": "才",
+        "wordPinYin": "cái",
+        "phrase": "才能",
+        "phrasePinYin": "cái néng",
+        "sentence": "我们要发挥自己的才能。",
+        "sentencePinYin": "wǒ men yào fā huī zì jǐ de cái néng。"
+    },
+    {
+        "id": 332,
+        "word": "亮",
+        "wordPinYin": "liàng",
+        "phrase": "明亮",
+        "phrasePinYin": "míng liàng",
+        "sentence": "教室的灯光很明亮。",
+        "sentencePinYin": "jiào shì de dēng guāng hěn míng liàng。"
+    },
+    {
+        "id": 333,
+        "word": "时",
+        "wordPinYin": "shí",
+        "phrase": "时间",
+        "phrasePinYin": "shí jiān",
+        "sentence": "我们要珍惜时间。",
+        "sentencePinYin": "wǒ men yào zhēn xī shí jiān。"
+    },
+    {
+        "id": 334,
+        "word": "候",
+        "wordPinYin": "hòu",
+        "phrase": "时候",
+        "phrasePinYin": "shí hou",
+        "sentence": "什么时候开始上课？",
+        "sentencePinYin": "shén me shí hou kāi shǐ shàng kè？"
+    },
+    {
+        "id": 335,
+        "word": "觉",
+        "wordPinYin": "jué",
+        "phrase": "觉得",
+        "phrasePinYin": "jué de",
+        "sentence": "我觉得这个故事很有趣。",
+        "sentencePinYin": "wǒ jué de zhè gè gù shì hěn yǒu qù。"
+    },
+    {
+        "id": 336,
+        "word": "得",
+        "wordPinYin": "dé",
+        "phrase": "得到",
+        "phrasePinYin": "dé dào",
+        "sentence": "我得到了老师的表扬。",
+        "sentencePinYin": "wǒ dé dào le lǎo shī de biǎo yáng。"
+    },
+    {
+        "id": 337,
+        "word": "自",
+        "wordPinYin": "zì",
+        "phrase": "自己",
+        "phrasePinYin": "zì jǐ",
+        "sentence": "我要学会自己做事情。",
+        "sentencePinYin": "wǒ yào xué huì zì jǐ zuò shì qing。"
+    },
+    {
+        "id": 338,
+        "word": "己",
+        "wordPinYin": "jǐ",
+        "phrase": "自己",
+        "phrasePinYin": "zì jǐ",
+        "sentence": "自己的事情自己做。",
+        "sentencePinYin": "zì jǐ de shì qing zì jǐ zuò。"
+    },
+    {
+        "id": 339,
+        "word": "很",
+        "wordPinYin": "hěn",
+        "phrase": "很多",
+        "phrasePinYin": "hěn duō",
+        "sentence": "公园里有很多人。",
+        "sentencePinYin": "gōng yuán lǐ yǒu hěn duō rén。"
+    },
+    {
+        "id": 340,
+        "word": "穿",
+        "wordPinYin": "chuān",
+        "phrase": "穿衣",
+        "phrasePinYin": "chuān yī",
+        "sentence": "早上要自己穿衣服。",
+        "sentencePinYin": "zǎo shàng yào zì jǐ chuān yī fu。"
+    },
+    {
+        "id": 341,
+        "word": "衣",
+        "wordPinYin": "yī",
+        "phrase": "衣服",
+        "phrasePinYin": "yī fu",
+        "sentence": "这件衣服很漂亮。",
+        "sentencePinYin": "zhè jiàn yī fu hěn piào liang。"
+    },
+    {
+        "id": 342,
+        "word": "服",
+        "wordPinYin": "fú",
+        "phrase": "服装",
+        "phrasePinYin": "fú zhuāng",
+        "sentence": "商店里有很多漂亮服装。",
+        "sentencePinYin": "shāng diàn lǐ yǒu hěn duō piào liang fú zhuāng。"
+    },
+    {
+        "id": 343,
+        "word": "门",
+        "wordPinYin": "mén",
+        "phrase": "门口",
+        "phrasePinYin": "mén kǒu",
+        "sentence": "我在门口等你。",
+        "sentencePinYin": "wǒ zài mén kǒu děng nǐ。"
+    },
+    {
+        "id": 344,
+        "word": "快",
+        "wordPinYin": "kuài",
+        "phrase": "快乐",
+        "phrasePinYin": "kuài lè",
+        "sentence": "祝你生日快乐！",
+        "sentencePinYin": "zhù nǐ shēng rì kuài lè！"
+    },
+    {
+        "id": 345,
+        "word": "蓝",
+        "wordPinYin": "lán",
+        "phrase": "蓝色",
+        "phrasePinYin": "lán sè",
+        "sentence": "天空是蓝色的。",
+        "sentencePinYin": "tiān kōng shì lán sè de。"
+    },
+    {
+        "id": 346,
+        "word": "又",
+        "wordPinYin": "yòu",
+        "phrase": "又高又大",
+        "phrasePinYin": "yòu gāo yòu dà",
+        "sentence": "这棵树又高又大。",
+        "sentencePinYin": "zhè kē shù yòu gāo yòu dà。"
+    },
+    {
+        "id": 347,
+        "word": "笑",
+        "wordPinYin": "xiào",
+        "phrase": "笑容",
+        "phrasePinYin": "xiào róng",
+        "sentence": "老师的笑容很温暖。",
+        "sentencePinYin": "lǎo shī de xiào róng hěn wēn nuǎn。"
+    },
+    {
+        "id": 348,
+        "word": "着",
+        "wordPinYin": "zhe",
+        "phrase": "看着",
+        "phrasePinYin": "kàn zhe",
+        "sentence": "我看着小鸟飞走了。",
+        "sentencePinYin": "wǒ kàn zhe xiǎo niǎo fēi zǒu le。"
+    },
+    {
+        "id": 349,
+        "word": "向",
+        "wordPinYin": "xiàng",
+        "phrase": "方向",
+        "phrasePinYin": "fāng xiàng",
+        "sentence": "我们要认清方向。",
+        "sentencePinYin": "wǒ men yào rèn qīng fāng xiàng。"
+    },
+    {
+        "id": 350,
+        "word": "和",
+        "wordPinYin": "hé",
+        "phrase": "和平",
+        "phrasePinYin": "hé píng",
+        "sentence": "我们要维护世界和平。",
+        "sentencePinYin": "wǒ men yào wéi hù shì jiè hé píng。"
+    },
+    {
+        "id": 351,
+        "word": "贝",
+        "wordPinYin": "bèi",
+        "phrase": "贝壳",
+        "phrasePinYin": "bèi ké",
+        "sentence": "海滩上有漂亮的贝壳。",
+        "sentencePinYin": "hǎi tān shàng yǒu piào liang de bèi ké。"
+    },
+    {
+        "id": 352,
+        "word": "娃",
+        "wordPinYin": "wá",
+        "phrase": "娃娃",
+        "phrasePinYin": "wá wa",
+        "sentence": "小妹妹抱着布娃娃。",
+        "sentencePinYin": "xiǎo mèi mei bào zhe bù wá wa。"
+    },
+    {
+        "id": 353,
+        "word": "挂",
+        "wordPinYin": "guà",
+        "phrase": "挂画",
+        "phrasePinYin": "guà huà",
+        "sentence": "墙上挂着一幅画。",
+        "sentencePinYin": "qiáng shàng guà zhe yī fú huà。"
+    },
+    {
+        "id": 354,
+        "word": "活",
+        "wordPinYin": "huó",
+        "phrase": "活动",
+        "phrasePinYin": "huó dòng",
+        "sentence": "学校组织了很多活动。",
+        "sentencePinYin": "xué xiào zǔ zhī le hěn duō huó dòng。"
+    },
+    {
+        "id": 355,
+        "word": "金",
+        "wordPinYin": "jīn",
+        "phrase": "金色",
+        "phrasePinYin": "jīn sè",
+        "sentence": "秋天树叶变成金色。",
+        "sentencePinYin": "qiū tiān shù yè biàn chéng jīn sè。"
+    },
+    {
+        "id": 356,
+        "word": "哥",
+        "wordPinYin": "gē",
+        "phrase": "哥哥",
+        "phrasePinYin": "gē ge",
+        "sentence": "我的哥哥很疼我。",
+        "sentencePinYin": "wǒ de gē ge hěn téng wǒ。"
+    },
+    {
+        "id": 357,
+        "word": "姐",
+        "wordPinYin": "jiě",
+        "phrase": "姐姐",
+        "phrasePinYin": "jiě jie",
+        "sentence": "姐姐教我写作业。",
+        "sentencePinYin": "jiě jie jiāo wǒ xiě zuò yè。"
+    },
+    {
+        "id": 358,
+        "word": "弟",
+        "wordPinYin": "dì",
+        "phrase": "弟弟",
+        "phrasePinYin": "dì di",
+        "sentence": "我的弟弟很调皮。",
+        "sentencePinYin": "wǒ de dì di hěn tiáo pí。"
+    },
+    {
+        "id": 359,
+        "word": "叔",
+        "wordPinYin": "shū",
+        "phrase": "叔叔",
+        "phrasePinYin": "shū shu",
+        "sentence": "叔叔送我一个玩具。",
+        "sentencePinYin": "shū shu sòng wǒ yī gè wán jù。"
+    },
+    {
+        "id": 360,
+        "word": "爷",
+        "wordPinYin": "yé",
+        "phrase": "爷爷",
+        "phrasePinYin": "yé ye",
+        "sentence": "爷爷喜欢下象棋。",
+        "sentencePinYin": "yé ye xǐ huān xià xiàng qí。"
+    },
+    {
+        "id": 361,
+        "word": "群",
+        "wordPinYin": "qún",
+        "phrase": "群众",
+        "phrasePinYin": "qún zhòng",
+        "sentence": "要听取群众意见。",
+        "sentencePinYin": "yào tīng qǔ qún zhòng yì jiàn。"
+    },
+    {
+        "id": 362,
+        "word": "竹",
+        "wordPinYin": "zhú",
+        "phrase": "竹子",
+        "phrasePinYin": "zhú zi",
+        "sentence": "熊猫喜欢吃竹子。",
+        "sentencePinYin": "xióng māo xǐ huān chī zhú zi。"
+    },
+    {
+        "id": 363,
+        "word": "牙",
+        "wordPinYin": "yá",
+        "phrase": "牙齿",
+        "phrasePinYin": "yá chǐ",
+        "sentence": "我们要保护牙齿。",
+        "sentencePinYin": "wǒ men yào bǎo hù yá chǐ。"
+    },
+    {
+        "id": 364,
+        "word": "用",
+        "wordPinYin": "yòng",
+        "phrase": "用品",
+        "phrasePinYin": "yòng pǐn",
+        "sentence": "商店有各种学习用品。",
+        "sentencePinYin": "shāng diàn yǒu gè zhǒng xué xí yòng pǐn。"
+    },
+    {
+        "id": 365,
+        "word": "几",
+        "wordPinYin": "jǐ",
+        "phrase": "几个",
+        "phrasePinYin": "jǐ gè",
+        "sentence": "你有几个好朋友？",
+        "sentencePinYin": "nǐ yǒu jǐ gè hǎo péng you？"
+    },
+    {
+        "id": 366,
+        "word": "步",
+        "wordPinYin": "bù",
+        "phrase": "步行",
+        "phrasePinYin": "bù xíng",
+        "sentence": "我步行去上学。",
+        "sentencePinYin": "wǒ bù xíng qù shàng xué。"
+    },
+    {
+        "id": 367,
+        "word": "为",
+        "wordPinYin": "wèi",
+        "phrase": "为了",
+        "phrasePinYin": "wèi le",
+        "sentence": "为了梦想而努力。",
+        "sentencePinYin": "wèi le mèng xiǎng ér nǔ lì。"
+    },
+    {
+        "id": 368,
+        "word": "参",
+        "wordPinYin": "cān",
+        "phrase": "参加",
+        "phrasePinYin": "cān jiā",
+        "sentence": "我要参加运动会。",
+        "sentencePinYin": "wǒ yào cān jiā yùn dòng huì。"
+    },
+    {
+        "id": 369,
+        "word": "加",
+        "wordPinYin": "jiā",
+        "phrase": "加法",
+        "phrasePinYin": "jiā fǎ",
+        "sentence": "我们学习加法运算。",
+        "sentencePinYin": "wǒ men xué xí jiā fǎ yùn suàn。"
+    },
+    {
+        "id": 370,
+        "word": "洞",
+        "wordPinYin": "dòng",
+        "phrase": "山洞",
+        "phrasePinYin": "shān dòng",
+        "sentence": "小熊住在山洞里。",
+        "sentencePinYin": "xiǎo xióng zhù zài shān dòng lǐ。"
+    },
+    {
+        "id": 371,
+        "word": "着",
+        "wordPinYin": "zhe",
+        "phrase": "看着",
+        "phrasePinYin": "kàn zhe",
+        "sentence": "我看着小鸟飞走了。",
+        "sentencePinYin": "wǒ kàn zhe xiǎo niǎo fēi zǒu le。"
+    },
+    {
+        "id": 372,
+        "word": "乌",
+        "wordPinYin": "wū",
+        "phrase": "乌鸦",
+        "phrasePinYin": "wū yā",
+        "sentence": "树上有只乌鸦。",
+        "sentencePinYin": "shù shàng yǒu zhī wū yā。"
+    },
+    {
+        "id": 373,
+        "word": "鸦",
+        "wordPinYin": "yā",
+        "phrase": "乌鸦",
+        "phrasePinYin": "wū yā",
+        "sentence": "乌鸦的羽毛是黑色的。",
+        "sentencePinYin": "wū yā de yǔ máo shì hēi sè de。"
+    },
+    {
+        "id": 374,
+        "word": "处",
+        "wordPinYin": "chù",
+        "phrase": "到处",
+        "phrasePinYin": "dào chù",
+        "sentence": "公园里到处是鲜花。",
+        "sentencePinYin": "gōng yuán lǐ dào chù shì xiān huā。"
+    },
+    {
+        "id": 375,
+        "word": "找",
+        "wordPinYin": "zhǎo",
+        "phrase": "寻找",
+        "phrasePinYin": "xún zhǎo",
+        "sentence": "我在寻找丢失的铅笔。",
+        "sentencePinYin": "wǒ zài xún zhǎo diū shī de qiān bǐ。"
+    },
+    {
+        "id": 376,
+        "word": "办",
+        "wordPinYin": "bàn",
+        "phrase": "办法",
+        "phrasePinYin": "bàn fǎ",
+        "sentence": "我们要想办法解决问题。",
+        "sentencePinYin": "wǒ men yào xiǎng bàn fǎ jiě jué wèn tí。"
+    },
+    {
+        "id": 377,
+        "word": "旁",
+        "wordPinYin": "páng",
+        "phrase": "旁边",
+        "phrasePinYin": "páng biān",
+        "sentence": "请坐在我旁边。",
+        "sentencePinYin": "qǐng zuò zài wǒ páng biān。"
+    },
+    {
+        "id": 378,
+        "word": "许",
+        "wordPinYin": "xǔ",
+        "phrase": "许多",
+        "phrasePinYin": "xǔ duō",
+        "sentence": "花园里有许多花。",
+        "sentencePinYin": "huā yuán lǐ yǒu xǔ duō huā。"
+    },
+    {
+        "id": 379,
+        "word": "法",
+        "wordPinYin": "fǎ",
+        "phrase": "方法",
+        "phrasePinYin": "fāng fǎ",
+        "sentence": "这个学习方法很好。",
+        "sentencePinYin": "zhè gè xué xí fāng fǎ hěn hǎo。"
+    },
+    {
+        "id": 380,
+        "word": "放",
+        "wordPinYin": "fàng",
+        "phrase": "放学",
+        "phrasePinYin": "fàng xué",
+        "sentence": "下午四点我们放学。",
+        "sentencePinYin": "xià wǔ sì diǎn wǒ men fàng xué。"
+    },
+    {
+        "id": 381,
+        "word": "进",
+        "wordPinYin": "jìn",
+        "phrase": "进步",
+        "phrasePinYin": "jìn bù",
+        "sentence": "我的学习进步了。",
+        "sentencePinYin": "wǒ de xué xí jìn bù le。"
+    },
+    {
+        "id": 382,
+        "word": "高",
+        "wordPinYin": "gāo",
+        "phrase": "高兴",
+        "phrasePinYin": "gāo xìng",
+        "sentence": "今天我很高兴。",
+        "sentencePinYin": "jīn tiān wǒ hěn gāo xìng。"
+    },
+    {
+        "id": 383,
+        "word": "住",
+        "wordPinYin": "zhù",
+        "phrase": "住房",
+        "phrasePinYin": "zhù fáng",
+        "sentence": "我们搬进了新住房。",
+        "sentencePinYin": "wǒ men bān jìn le xīn zhù fáng。"
+    },
+    {
+        "id": 384,
+        "word": "孩",
+        "wordPinYin": "hái",
+        "phrase": "孩子",
+        "phrasePinYin": "hái zi",
+        "sentence": "孩子们在操场上玩耍。",
+        "sentencePinYin": "hái zi men zài cāo chǎng shàng wán shuǎ。"
+    },
+    {
+        "id": 385,
+        "word": "玩",
+        "wordPinYin": "wán",
+        "phrase": "玩具",
+        "phrasePinYin": "wán jù",
+        "sentence": "弟弟有很多玩具。",
+        "sentencePinYin": "dì di yǒu hěn duō wán jù。"
+    },
+    {
+        "id": 386,
+        "word": "吧",
+        "wordPinYin": "ba",
+        "phrase": "好吧",
+        "phrasePinYin": "hǎo ba",
+        "sentence": "好吧，我同意。",
+        "sentencePinYin": "hǎo ba，wǒ tóng yì。"
+    },
+    {
+        "id": 387,
+        "word": "发",
+        "wordPinYin": "fā",
+        "phrase": "发现",
+        "phrasePinYin": "fā xiàn",
+        "sentence": "我发现了一个秘密。",
+        "sentencePinYin": "wǒ fā xiàn le yī gè mì mì。"
+    },
+    {
+        "id": 388,
+        "word": "芽",
+        "wordPinYin": "yá",
+        "phrase": "发芽",
+        "phrasePinYin": "fā yá",
+        "sentence": "春天种子发芽了。",
+        "sentencePinYin": "chūn tiān zhǒng zi fā yá le。"
+    },
+    {
+        "id": 389,
+        "word": "爬",
+        "wordPinYin": "pá",
+        "phrase": "爬山",
+        "phrasePinYin": "pá shān",
+        "sentence": "周末我们去爬山。",
+        "sentencePinYin": "zhōu mò wǒ men qù pá shān。"
+    },
+    {
+        "id": 390,
+        "word": "呀",
+        "wordPinYin": "ya",
+        "phrase": "好呀",
+        "phrasePinYin": "hǎo ya",
+        "sentence": "好呀，我们一起去。",
+        "sentencePinYin": "hǎo ya，wǒ men yī qǐ qù。"
+    },
+    {
+        "id": 391,
+        "word": "久",
+        "wordPinYin": "jiǔ",
+        "phrase": "很久",
+        "phrasePinYin": "hěn jiǔ",
+        "sentence": "我等了很久。",
+        "sentencePinYin": "wǒ děng le hěn jiǔ。"
+    },
+    {
+        "id": 392,
+        "word": "回",
+        "wordPinYin": "huí",
+        "phrase": "回家",
+        "phrasePinYin": "huí jiā",
+        "sentence": "放学后我直接回家。",
+        "sentencePinYin": "fàng xué hòu wǒ zhí jiē huí jiā。"
+    },
+    {
+        "id": 393,
+        "word": "全",
+        "wordPinYin": "quán",
+        "phrase": "全部",
+        "phrasePinYin": "quán bù",
+        "sentence": "作业全部完成了。",
+        "sentencePinYin": "zuò yè quán bù wán chéng le。"
+    },
+    {
+        "id": 394,
+        "word": "变",
+        "wordPinYin": "biàn",
+        "phrase": "变化",
+        "phrasePinYin": "biàn huà",
+        "sentence": "四季有很多变化。",
+        "sentencePinYin": "sì jì yǒu hěn duō biàn huà。"
+    },
+    {
+        "id": 395,
+        "word": "工",
+        "wordPinYin": "gōng",
+        "phrase": "工人",
+        "phrasePinYin": "gōng rén",
+        "sentence": "工人叔叔很辛苦。",
+        "sentencePinYin": "gōng rén shū shu hěn xīn kǔ。"
+    },
+    {
+        "id": 396,
+        "word": "厂",
+        "wordPinYin": "chǎng",
+        "phrase": "工厂",
+        "phrasePinYin": "gōng chǎng",
+        "sentence": "爸爸在工厂上班。",
+        "sentencePinYin": "bà ba zài gōng chǎng shàng bān。"
+    },
+    {
+        "id": 397,
+        "word": "医",
+        "wordPinYin": "yī",
+        "phrase": "医生",
+        "phrasePinYin": "yī shēng",
+        "sentence": "医生给我检查身体。",
+        "sentencePinYin": "yī shēng gěi wǒ jiǎn chá shēn tǐ。"
+    },
+    {
+        "id": 398,
+        "word": "院",
+        "wordPinYin": "yuàn",
+        "phrase": "医院",
+        "phrasePinYin": "yī yuàn",
+        "sentence": "生病了要去医院。",
+        "sentencePinYin": "shēng bìng le yào qù yī yuàn。"
+    },
+    {
+        "id": 399,
+        "word": "生",
+        "wordPinYin": "shēng",
+        "phrase": "生活",
+        "phrasePinYin": "shēng huó",
+        "sentence": "我们要热爱生活。",
+        "sentencePinYin": "wǒ men yào rè ài shēng huó。"
+    }
+]
