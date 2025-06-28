@@ -987,7 +987,7 @@
         "phrase": "跟随",
         "phrasePinYin": "gēn suí",
         "sentence": "小鸭子跟随妈妈游泳。",
-        "s极entencePinYin": "xiǎo yā zi gēn suí mā ma yóu yǒng。"
+        "sentencePinYin": "xiǎo yā zi gēn suí mā ma yóu yǒng。"
     },
     {
         "id": 510,
@@ -1003,7 +1003,7 @@
         "word": "喊",
         "wordPinYin": "hǎn",
         "phrase": "喊叫",
-        "phrase极PinYin": "hǎn jiào",
+        "phrasePinYin": "hǎn jiào",
         "sentence": "不要大声喊叫。",
         "sentencePinYin": "bú yào dà shēng hǎn jiào。"
     },
@@ -1352,7 +1352,7 @@
     {
         "id": 550,
         "word": "敢",
-        "word极PinYin": "gǎn",
+        "wordPinYin": "gǎn",
         "phrase": "勇敢",
         "phrasePinYin": "yǒng gǎn",
         "sentence": "我们要做个勇敢的孩子。",
@@ -1824,7 +1824,7 @@
         "phrase": "蚂蚁",
         "phrasePinYin": "mǎ yǐ",
         "sentence": "地上有一群蚂蚁在搬家。",
-        "sentence极PinYin": "dì shàng yǒu yī qún mǎ yǐ zài bān jiā。"
+        "sentencePinYin": "dì shàng yǒu yī qún mǎ yǐ zài bān jiā。"
     },
     {
         "id": 603,
@@ -3408,7 +3408,7 @@
         "phrase": "梅花鹿",
         "phrasePinYin": "méi huā lù",
         "sentence": "动物园里有梅花鹿。",
-        "sentence极PinYin": "dòng wù yuán lǐ yǒu méi huā lù。"
+        "sentencePinYin": "dòng wù yuán lǐ yǒu méi huā lù。"
     },
     {
         "id": 779,
