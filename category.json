@@ -16,5 +16,14 @@
         "characterCount": 299,
         "colorHex": "#4ECDC4",
         "resource": "grade_1_1"
+    },
+    {
+        "id": 3,
+        "name": "一年级下",
+        "description": "一年级下学期学习的汉字",
+        "iconName": "1.square",
+        "characterCount": 406,
+        "colorHex": "#FFD166",
+        "resource": "grade_1_2"
     }
 ]
