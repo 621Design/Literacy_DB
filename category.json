@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "基础字",
+        "name": "学前基础字",
         "description": "学前必备的基础汉字",
         "iconName": "book.fill",
         "characterCount": 100,
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name": "一年级上",
-        "description": "一年级上学期学习的汉字",
+        "description": "一年级上学期需识字",
         "iconName": "1.square.fill",
         "characterCount": 299,
         "colorHex": "#4ECDC4",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "一年级下",
-        "description": "一年级下学期学习的汉字",
+        "description": "一年级下学期需识字",
         "iconName": "1.square",
         "characterCount": 406,
         "colorHex": "#FFD166",
